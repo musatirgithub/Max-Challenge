@@ -1,1 +1,1 @@
-# [Max-Challenge](https://github.com/musatirgithub/Max-Challenge/index.html)
+# [Max-Challenge](https://musatirgithub.github.io/Max-Challenge/)
