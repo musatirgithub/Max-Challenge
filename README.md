@@ -9,11 +9,11 @@
 
 
 ## The challenge
-Project aims to display my public github projects.
+Project aims to display an HTML & CSS training info page
 
 ## Problem Statement
 
-- Develop an app which  withdraw my public repos from github API, display them, allow users to search, filter and sort my projects.
+- Develop an app which shows a homepage for HTML & CSS training and by clicking a link, user should be able to reach a daily schedule page.
 <hr>
 
 
