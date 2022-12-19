@@ -49,7 +49,7 @@ I used;
 
 ### Useful resources
 
-- [W3 Schoold](https://www.w3schools.com/) 
+- [W3 Schools](https://www.w3schools.com/) 
 - [MDN](https://developer.mozilla.org/en-US/) 
 - [GOOGLE FONTS](https://fonts.google.com/) 
 
