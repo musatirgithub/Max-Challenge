@@ -2,8 +2,10 @@
 ## Table of contents
 
   - [The challenge](#the-challenge)
+  - [Problem Statement](#problem-statement)
   - [Screenshot](#screenshot)
-  - [Built with](#built-with)
+  - [Project Information](#project-information)
+  - [Lesson Learned](#lesson-learned)
   - [Useful resources](#useful-resources)
 
 
