@@ -29,18 +29,15 @@ Project aims to display an HTML & CSS training info page
 
 
 ### Project Information
-- Portfolio App is made by using React,
-- Projects are retrieved from Github API by using fetch method,
-- Users can search, filter and sort projects,
-- For providing multipage experience to user, React Router Dom is used,
-- For styling, traditidional CSS and Styled Components are used.
+- Max-Challenge website is made by using HTML & CSS,
+- Fonts are imported from Google Fonts,
+- CSS files are connected to HTML files by using <link rel="stylesheet" href="styles/shared.css"> element.
+
 
 ------
 I used;
-- React
-- Styled Components
-- React Router
-- Fetch Method
+- HTML
+- CSS
 
 
 
