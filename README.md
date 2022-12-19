@@ -45,15 +45,14 @@ I used;
 
 ## Lesson Learned
 
-- At the planning phase considering the app as a simple one I've decided to create search, filter and sort as different components and used different useState hooks to keep these data. In the end it was complicated to manage all these states by passing props. For future apps it'll be better to keep these data in a global state. 
+- This was my first webpage. When I forgot to link CSS file my stylings did not work. First thing should be linking CSS file to HTML in the projects. 
 
 ### Useful resources
 
 - [W3 Schoold](https://www.w3schools.com/) 
 - [MDN](https://developer.mozilla.org/en-US/) 
-- [REACT](https://reactjs.org/) 
-- [STYLED COMPONENTS](https://styled-components.com/)
-- [REACT ROUTER](https://reactrouter.com/en/main) 
+- [GOOGLE FONTS](https://fonts.google.com/) 
+
 
 
 
